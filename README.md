@@ -1,5 +1,5 @@
 # AsposeWordsHelper
-A word writer helper/wrapper for "aspose.words", including title, paragraph, break, table, image and ole object. 
+A word writer helper/wrapper for "aspose.words", including title, paragraph, break, table, image and ole object. It simplifies the code to generate a word file. For example, to merge table cells, it uses WordTableMergeOption to do that, instead of writing a few lines of code to implement it.
 
 # Usage
 ```
