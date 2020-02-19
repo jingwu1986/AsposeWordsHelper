@@ -55,5 +55,5 @@ WordWriter writer = new WordWriter(nodes, documentOption);
 writer.Write(filePath);
 ```
 
-# Screenshort of generated file
-![Screenshort](https://github.com/jingwu1986/AsposeWordsHelper/blob/master/Screenshort.png)
+# Screenshot of generated file
+![Screenshot](https://github.com/jingwu1986/AsposeWordsHelper/blob/master/Screenshort.png)
